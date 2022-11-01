@@ -7,5 +7,10 @@
 4. To start server type 'npm start' and press enter.
 5. To run continuously via nodemon type 'npm run devstart' and press enter.
 
-## Sending requests to server
-1. Test
+## Request data from server
+** - Bold
+
+## Recieve data from server
+- To get data the user must send a request to one of the above paths. 
+- Data is then sent back to the user in JSON format.
+- Data can be used however the user wants. 
